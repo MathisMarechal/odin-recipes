@@ -1,3 +1,39 @@
-.introduction {
+body {
+    color: black;
+}
+
+.first {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.second {
+    text-align: center;
+}
+
+#para-center {
+    text-align: center;
+}
+
+.button-index {
+    display: block;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.intro {
     color: red;
+}
+
+ul {
+    color: blue;
+}
+
+ol {
+    color: brown;
+}
+
+#How {
+    text-align: center;
 }
