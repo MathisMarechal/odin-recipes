@@ -24,6 +24,7 @@ body {
 
 .intro {
     color: red;
+    text-align: center;
 }
 
 ul {
@@ -36,4 +37,12 @@ ol {
 
 #How {
     text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: lighter;
 }
