@@ -1,14 +1,25 @@
 body {
     color: black;
+    background-color: #FEFEF9;
 }
 
 .first {
-    background-color: aquamarine;
+    background-color: #fff1e1;
     text-align: center;
+    width: 900px;
+    height: auto;
+    border:1px solid ;
+    margin: auto;
 }
 
 .second {
+    background-color: #fff1e1;
     text-align: center;
+    width: 100px;
+    height: auto;
+    border:1px solid ;
+    margin: 50px auto;
+
 }
 
 #para-center {
