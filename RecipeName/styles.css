@@ -9,7 +9,7 @@ body {
     width: 900px;
     height: auto;
     border:1px solid ;
-    margin: auto;
+    margin: 0px auto 50px;
 }
 
 .second {
@@ -18,12 +18,92 @@ body {
     width: 100px;
     height: auto;
     border:1px solid ;
+    padding: 5px;
     margin: 50px auto;
-
+    display: inline;
 }
 
-#para-center {
+.separation {
     text-align: center;
+}
+
+.trait {
+    width: 780px;
+    height: 0px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 10px 20px ;
+}
+
+.box_photo {
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+#centrer_lasagne {
+    width: 536px;
+    height: 358px;
+    margin: 20px auto;
+}
+
+#taille_lasagne {
+    width: 512px;
+    height: 334px;
+}
+
+.lien_Lasagne {
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 70px;
+    height: 20px;
+    margin: 20px auto 80px;
+}
+
+#centrer_spicy {
+    margin: 20px auto;
+    width: 430px;
+    height: 430px;
+}
+
+#taille_spicy {
+    width: 400px;
+    height: 400px;
+}
+
+.lien_Spicy {
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 160px;
+    height: 20px;
+    margin: 20px auto 80px;
+}
+
+#centrer_yaki {
+    margin: 20px auto;
+    height: 330px;
+    width: 329.5px;
+}
+
+#taille_yaki {
+    width: 299.5px;
+    height: 300px;
+}
+
+.lien_Yaki {
+    display: block;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 120px;
+    height: 20px;
+    margin: 20px auto 80px;
 }
 
 .button-index {
@@ -56,4 +136,8 @@ h3 {
 
 h4 {
     font-weight: lighter;
+}
+
+#para-center {
+    text-align: center;
 }
