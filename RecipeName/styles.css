@@ -3,6 +3,8 @@ body {
     background-color: #FEFEF9;
 }
 
+/*principalement index */
+
 .first {
     background-color: #fff1e1;
     text-align: center;
@@ -35,7 +37,7 @@ body {
     margin: 10px 20px ;
 }
 
-.box_photo {
+.box_photo { /* utiliser pour faire le cadre des photos */
     display: block;
     border: 1px solid black;
     border-radius: 5px;
@@ -46,7 +48,7 @@ body {
 #centrer_lasagne {
     width: 536px;
     height: 358px;
-    margin: 20px auto;
+    margin: 30px auto;
 }
 
 #taille_lasagne {
@@ -113,17 +115,24 @@ body {
     text-align: center;
 }
 
+/* pour les pages de rectte */
+
 .intro {
     color: red;
     text-align: center;
+    margin: 20px auto 10px;
+    display: block;
 }
 
 ul {
+    margin: 0px auto 15px;
     color: blue;
+    font-size: 20px;
 }
 
 ol {
     color: brown;
+    font-size: 20px;
 }
 
 #How {
@@ -140,4 +149,34 @@ h4 {
 
 #para-center {
     text-align: center;
+}
+
+/* pour les lasagnes */
+
+#moins_de_margin {
+    margin : 0px auto 40px;
+}
+
+#centrer_l {
+    display: block;
+    margin: 30px auto 30px ;
+}
+
+.titre {
+    margin: 30px auto 20px;
+}
+
+.third {
+    background-color: #fdfece;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: block;
+    width: 150px;
+    height: auto;
+    margin: 20px 20px 5px;
+    text-align: center;
+}
+
+.ajustement_trait_l {
+    width: 600px;
 }
