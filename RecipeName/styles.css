@@ -180,3 +180,33 @@ h4 {
 .ajustement_trait_l {
     width: 600px;
 }
+
+/* Yakisoba */
+
+#center_y {
+    display: block;
+    margin: 30px auto 30px;
+}
+
+.ajustement_trait_y {
+    width: 600px;
+}
+
+#margin_para_y {
+    margin-bottom: 40px;
+}
+
+/* Spicy */
+
+#center_s {
+    display: block;
+    margin: 30px auto 30px;
+}
+
+.ajustement_trait_s {
+    width: 600px;
+}
+
+#margin_s {
+    margin-bottom: 30px;
+}
